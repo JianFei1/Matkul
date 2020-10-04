@@ -1,7 +1,7 @@
-def anjg():
+def up():
     i=1
     while i <= 9999:
-        print("hai ajg")
+        print("haii")
         i+=1
 
-anjg()
+up()
